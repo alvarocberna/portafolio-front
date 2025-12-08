@@ -25,9 +25,9 @@ export const data = {
             color: '#D5BFA3',
             detalle: [
                 { tecnologia: 'Oracle', valor: 3 },
-                { tecnologia: 'MongoDB', valor: 2 },
+                { tecnologia: 'Postgresql', valor: 2 },
                 { tecnologia: 'MySQL', valor: 2 },
-                { tecnologia: 'Certificado en AWS', valor: 2 },
+                { tecnologia: 'Certificado en AWS <en curso>', valor: 2 },
 
             ]
         },
@@ -39,7 +39,7 @@ export const data = {
                 { tecnologia: 'CSS', valor: 2 },
                 { tecnologia: 'React', valor: 2 },
                 { tecnologia: 'NextJS', valor: 2 },
-                { tecnologia: 'Angular', valor: 2 },
+                // { tecnologia: 'Angular', valor: 2 },
                 { tecnologia: 'Bootstrap', valor: 2 },
                 { tecnologia: 'Tailwind', valor: 2 },
                 { tecnologia: 'SEO', valor: 3 },
@@ -52,8 +52,8 @@ export const data = {
             detalle: [
                 { tecnologia: 'Nodejs', valor: 3 },
                 { tecnologia: 'Express', valor: 2 },
-                { tecnologia: 'Django', valor: 2 },
                 { tecnologia: 'Nestjs', valor: 2 },
+                { tecnologia: 'Django', valor: 2 },
                 { tecnologia: 'Docker', valor: 2 },
                 { tecnologia: 'Postman', valor: 2 },
                 { tecnologia: 'Jest', valor: 1 },

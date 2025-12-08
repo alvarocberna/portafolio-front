@@ -19,7 +19,7 @@ export function Writer() {
     if (index >= texts.length) return;
 
     const currentText = texts[index];
-    const speed = deleting ? 40 : 80;
+    const speed = deleting ? 40 : 60;
 
     // 💡 controla el ciclo de escritura y borrado
     const timeout = setTimeout(() => {
