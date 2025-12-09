@@ -1,6 +1,6 @@
 'use client';
 
-import {ApiFetch} from '../../shared/api/client';
+import {ApiFetch} from '../../../shared/api/client';
 import { useState } from 'react';
 
 export default function SendEmailForm() {

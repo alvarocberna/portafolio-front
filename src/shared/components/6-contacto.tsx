@@ -2,7 +2,7 @@
 import React from 'react'
 import Image from 'next/image';
 import '../../app/globals.css';
-import SendEmailForm from '../../app/services/email.service';
+import SendEmailForm from '../../features/contacto/services/email.service';
 import { useState } from 'react';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faCircleXmark} from '@fortawesome/free-regular-svg-icons'

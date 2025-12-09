@@ -82,7 +82,7 @@ export const data = {
             imgProyecto: '/imgs/img_nutriapp.png',
             linkProyecto: 'https://www.youtube.com/watch?v=v68JUz08VYs&t=28s',
             imgCode: '/imgs/img_code.jpg',
-            linkRepositorio: 'https://google.com'
+            linkRepositorio: 'https://github.com/alvarocberna/nutriapp-back'
         },
         {
             titulo: 'Servidor de correo electrónico',
@@ -93,9 +93,9 @@ export const data = {
                 'Express'
             ],
             imgProyecto: '/imgs/img_code.jpg',
-            linkProyecto: 'https://github.com/alvarocberna/Portafolio-Back.git',
+            linkProyecto: 'https://github.com/alvarocberna/portafolio-back.git',
             imgCode: '/imgs/img_code.jpg',
-            linkRepositorio: 'https://github.com/alvarocberna/Portafolio-Back.git'
+            linkRepositorio: 'https://github.com/alvarocberna/portafolio-back.git'
         },
         {
             titulo: 'Nutreactivo - página web',
@@ -108,7 +108,7 @@ export const data = {
             imgProyecto: '/imgs/img_proyecto_nutreactivo.png',
             linkProyecto: 'https://www.nutreactivo.cl/',
             imgCode: '/imgs/img_code.jpg',
-            linkRepositorio: 'https://github.com/alvarocberna/Nutreactivo_front.git'
+            linkRepositorio: 'https://github.com/alvarocberna/nutreactivo-front'
         },
         {
             titulo: 'Pacific Reef - app web',
@@ -134,7 +134,7 @@ export const data = {
             imgProyecto: '/imgs/img_proyecto_ciclolegal.png',
             linkProyecto: 'https://ciclolegal.cl/',
             imgCode: '/imgs/img_code.jpg',
-            linkRepositorio: 'https://github.com/alvarocberna/Ciclolegal_front.git'
+            linkRepositorio: 'https://github.com/alvarocberna/ciclolegal-front'
         }
     ],
     contacto: {
